@@ -14,4 +14,4 @@ A lightweight, offline browser extension for generating, validating, and identif
 1. Visit the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/iranian-license-plate-finder/).
 
 ### Chrome
-1. Visit the [Chrome Web Store page](#).
+1. Visit the [Chrome Web Store page](https://chromewebstore.google.com/detail/iranian-license-plate-fin/eoelbcgpkgdfhfefapabefibmlajahfh).
