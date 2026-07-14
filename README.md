@@ -1,12 +1,18 @@
 # Iranian License Plate Browser Extension
 
-A lightweight, offline browser extension for generating, validating, and identifying Iranian license plate numbers. It implements the official checksum algorithm and maps plate prefixes to the originating city/province.
+A lightweight, offline browser extension for identifying Iranian vehicle license plate information using the plate code.
 
 ## Features
-- Generate a random valid Iranian license plate.
-- Validate any Iranian license plate format.
-- Detect city/province from the plate prefix.
-- Copy generated plate to clipboard.
+- Search by plate code and optional letter.
+- Show province and city information from local data.
+
+## Development
+
+Edit the shared source files in the src folder. The browser folders keep only their manifest files and point to the shared source through src/:
+
+```bash
+bash release.sh
+```
 
 ## Installation
 
